@@ -132,20 +132,16 @@
 
 ### 聯繫我
 
-- �� Email: [asd12457932@gmail.com](mailto:asd12457932@gmail.com)
-- �� Phone: +886 970 159 814
-- �� 網站: [https://edgerapple.com](https://edgerapple.com)
-- �� LinkedIn: [Meng-Ping Hsu](https://www.linkedin.com/in/meng-ping-hsu)
+- Email: [asd12457932@gmail.com](mailto:asd12457932@gmail.com)
+- Phone: +886 970 159 814
+- 網站: [https://edgerapple.com](https://edgerapple.com)
+- LinkedIn: [Meng-Ping Hsu](https://www.linkedin.com/in/meng-ping-hsu)
 
 ---
 
 ### GitHub 統計
 
-![GitHub統計](https://github-readme-stats.vercel.app/api?username=asd12457932&show_icons=true&theme=radical)
-
 ![使用語言](https://github-readme-stats.vercel.app/api/top-langs/?username=asd12457932&layout=compact&theme=radical)
-
-![訪問次數](https://komarev.com/ghpvc/?username=asd12457932&color=brightgreen)
 
 ---
 
