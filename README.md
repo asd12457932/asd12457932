@@ -6,10 +6,10 @@
 
 資深全端工程師，具有 4+ 年專業經驗，熱衷於以價值導向的思維發揮產品最大價值，並在與使用者的互動中獲得成就感。自高中開始自學網頁開發，閒暇之餘喜歡閱讀書籍、開發 Side Project 提升自己的技術能力。
 
-[![Website](https://img.shields.io/badge/Website-edgerapple.com-brightgreen?style=flat-square&logo=google-chrome)](https://edgerapple.com)
-[![Email](https://img.shields.io/badge/Email-asd12457932%40gmail.com-red?style=flat-square&logo=gmail)](mailto:asd12457932@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-asd12457932-black?style=flat-square&logo=github)](https://github.com/asd12457932)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meng--Ping%20Hsu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/meng-ping-hsu)
+[![Website](https://img.shields.io/badge/Website-edgerapple.com-E8E8E8?style=flat-square&logo=google-chrome)](https://edgerapple.com)
+[![Email](https://img.shields.io/badge/Email-asd12457932%40gmail.com-E8E8E8?style=flat-square&logo=gmail)](mailto:asd12457932@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-asd12457932-E8E8E8?style=flat-square&logo=github)](https://github.com/asd12457932)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meng--Ping%20Hsu-E8E8E8?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/meng-ping-hsu)
 
 ### Skill Tree
 
@@ -57,42 +57,13 @@
 #### Senior Software Engineer @ AUO Corporation
 *October 2024 - Present*
 
-- 使用 React, TypeScript 進行 EMS 能源管理系統前端開發與維護
-- 使用 ASP .NET、LINQ、Oracle RDBMS 進行後端開發與維護
-- 建立部門 DevOps Infrastructure
-
-**主要成就：**
-- 架設部門 GitLab, Docker Registry, Nuget Server 在 AWS EC2 上，提升團隊開發效率
-- 使用 Docker 與 GitLab CI/CD 自動化上版流程，將因上版流程錯誤導致的網站服務中斷從每月兩次減至零
-- 架設 Sonarqube 代碼檢測並建立團隊 Coding Convention，確保程式碼品質
-
 #### Product Developer @ Titansoft Pte Ltd
 *July 2021 - September 2024*
-
-- 使用 ASP .NET、LINQ、MSSQL, gRPC 進行娛樂平台後端微服務開發與維護
-- 使用 Vue.js 搭配 TypeScript 進行前端開發與維護
-- 使用 Redis, Node.js, GraphQL 建立資料查詢微服務，並利用 Redis Pub/Sub 搭配 Web Socket 實時提供最新資料
-
-**DevOps 經驗：**
-- 建置 GitLab CI/CD、Docker、Kubernetes 環境
-- 使用 HPA、KEDA 根據使用量與自定義 metrics 彈性調整 Kubernetes Pod 使用量
-- 實作 Promethus、Grafana 監控系統與 ELK 日誌管理系統
-
-**主要成就：**
-- 引入 Pinia 替換 Vuex，增強與 TypeScript & Composition API 的結合
-- 將 Vue2 專案部分重構為 Vue3 並淘汰 Option API
-- 將 .NET MVC 專案前端部分改為 Vue3 專案
-- 擔任實習生團隊講師與技術面試官
 
 #### Product Developer Intern @ Titansoft Pte Ltd
 *July 2020 - June 2021*
 
-- 使用 ASP .NET, JQuery, Bootstrap, Vue.js 開發與維護內部系統
-- 開發 Performance System 將績效與升遷流程無紙化，提升公司流程效率
-- 翻新 Interview System 前端畫面，提升整體面試流程滿意度
-- 建置 GitLab CI/CD 自動部署系統，提升開發速度
-
-#### 精選專案
+### 精選專案
 
 #### [HOHOTOY](https://www.hohotoy.com/)
 
@@ -112,8 +83,6 @@
 - 使用 **GitHub Actions** 自動部署至 GitHub Pages
 
 #### [Pokemon Gaole 小工具](https://asd12457932.github.io/pokemon-gaole/)
-![Tool](https://img.shields.io/badge/Tool-Pokemon%20Gaole-yellow?style=flat-square)
-
 為遊戲愛好者開發的輔助工具。
 
 - 使用 **Vue3, Vue Router, Vite** 開發 SPA 應用
@@ -121,28 +90,9 @@
 - 自行研究卡牌順序邏輯，提供查詢功能
 
 #### [Code Work 求職媒合平台](https://github.com/asd12457932/code-work)
-![Platform](https://img.shields.io/badge/Platform-Code%20Work-green?style=flat-square)
-
 大學專題作品，協助求職者與企業媒合。
 
 - 使用 **React + Redux** 開發前端
 - 使用 **Webpack** 作為打包工具
 - 整合線上 Kata 練習、職缺瀏覽、履歷撰寫功能
 - 使用 **Jieba** 斷詞技術進行履歷與職缺媒合度分析
-
-### 聯繫我
-
-- Email: [asd12457932@gmail.com](mailto:asd12457932@gmail.com)
-- Phone: +886 970 159 814
-- 網站: [https://edgerapple.com](https://edgerapple.com)
-- LinkedIn: [Meng-Ping Hsu](https://www.linkedin.com/in/meng-ping-hsu)
-
----
-
-### GitHub 統計
-
-![使用語言](https://github-readme-stats.vercel.app/api/top-langs/?username=asd12457932&layout=compact&theme=radical)
-
----
-
-> 有興趣了解更多我的專案和經歷嗎？歡迎與我聯繫！
